@@ -1,0 +1,19 @@
+{
+  "appKey": "hozxNX2blDhmvvUpmT3MolcAftKkNOjU",
+  "appSecret": "tL9hdkDEzQ3kcM4kjWAz2cLDPhbKzF4l",
+  "projectId": "df2de34fc546668a898a9b268f9a0878",
+  "id": 480,
+  "name": "zhoudafu-mobile",
+  "framework": "vue",
+  "platform": "mobile",
+  "description": "测试周大福移动端",
+  "git": {
+    "url": "https://github.com/tanlingithub/zhoudafu-Mobile.git",
+    "isPrivate": 0,
+    "username": "3082902468@qq.com",
+    "password": "Yt1FhoMvOzpTc9SXr5ju67UZusqdfRudF2o2cgoCy1CXxbv6yF3S0XBP1wBZjKrxD7cXvXidilx/dws/xLo07g=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
